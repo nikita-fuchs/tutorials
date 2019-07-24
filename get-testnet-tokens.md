@@ -32,7 +32,7 @@ Commands:
 ### sdk-testnet
 Audience – people using released versions of our SDKs. Most software developers should use this for testing purposes.
 
-Let's check the Epoch version of sdk-testnet:
+Let's check the node client's version of sdk-testnet:
 ```
 aecli chain status -u https://sdk-testnet.aepps.com
 ```
